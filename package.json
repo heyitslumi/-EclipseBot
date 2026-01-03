@@ -1,0 +1,23 @@
+{
+  "name": "eclipsesystemsbot",
+  "version": "0.0.1",
+  "description": "EclipseSystems bot in discordjs v14",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "eclipsesystems.top",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "discord-anti-spam": "^2.8.1",
+    "discord-html-transcripts": "^3.2.0",
+    "discord-tickets": "^2.0.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "overrides": {
+    "undici": "^5.28.6",
+    "ws": "^8.17.1"
+  }
+}

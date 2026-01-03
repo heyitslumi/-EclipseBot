@@ -1,0 +1,32 @@
+{
+  "updatecommands": "1",
+  "logchannelID": "1397944040439418880",
+  "ticketlogID": "1397944040439418880",
+  "ticketID": "1094922348697763890",
+  "staffAccessRoleID": "1382396536746541156",
+  "debug": "1",
+  "botID": "1286395056911028314",
+  "botServerID": "674974169485672449",
+  "status": "EclipseSystems.top",
+  "xp": {
+    "WELCOME_CHANNEL_ID": "1444406257661378570",
+    "SUPPORT_TICKET_URL": "https://eclipsesystems.top/account/tickets",
+    "BOOST_XP": 50,
+    "MESSAGE_XP": 1,
+    "THANKS_XP": 10,
+    "THANKS_GIVER_XP": 1,
+    "STAFF_ROLE_ID": "1382396536746541156",
+    "GUILD_LINK": "eclipsesystems.top",
+    "GUILD_LINK_XP": 10,
+    "PRIMARY_GUILD_ID": "674974169485672449",
+    "GUILD_INVITE_XP": 25
+  },
+  "rolecooldown": {
+    "1382396536746541156": {
+      "bansperday": 100,
+      "kicksperday": 100,
+      "timeoutsperday": 100,
+      "unbansperday": 100
+    }
+  }
+}
