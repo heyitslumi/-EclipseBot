@@ -1,15 +1,43 @@
 # EclipseSystems Bot
 ## Maintained for eclipsesystems.top
 
-### Note: this repository includes legacy dependencies and may be unstable.
+### Note
+This repository contains legacy dependencies but should be production ready.  
+Use with caution and review all code before deploying.
 
+---
 
-## How to install?
-Just clone repo and install node.js v22.x with npm
-Edit ./build.sh for your own needs. Chmod +x build.sh and run!
+## Installation
+1. Clone the repository.
+2. Install Node.js v22.x with npm.
+3. Edit `./build.sh` to match your environment.
+4. Make the script executable:
+   chmod +x build.sh
+5. Run the build script.
 
-## How to edit code?
-Simply make any changes you want to do, We recommand using node 22 or greater with discord.js v14, then simply just send a pull request with a quick description of what you did, any new additions and npm modules or different tools etc!
+---
+
+## Editing the Code
+You are free to modify the code for your own needs.
+
+We recommend:
+- Node.js v22 or newer
+- discord.js v14
+- Clear commit messages describing:
+  - What you changed
+  - New features or modules added
+  - Any dependency adjustments
+
+Pull requests are welcome as long as they include a short, clear description of the changes..
+
+---
 
 ## Contributors
-Contributors: Bob (mynameisbob1928) PlurrYT (aka thenoname_gurl https://lumiweb.top) SkyOPG (https://github.com/SkyOPG)
+- Bob (mynameisbob1928)  
+- PlurrYT (aka thenoname_gurl — https://lumiweb.top)  
+- SkyOPG (https://github.com/SkyOPG)
+
+---
+
+## Notes
+This bot is maintained for EclipseSystems infrastructure.
