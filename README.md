@@ -12,4 +12,4 @@ Edit ./build.sh for your own needs. Chmod +x build.sh and run!
 Simply make any changes you want to do, We recommand using node 21 or greater with discord.js v14, then simply just send a pull request with a quick description of what you did, any new additions and npm modules or different tools etc!
 
 ## Contributors
-Contributors: Bob (mynameisbob1928) PlurrYT (plurryt) SkyOPG (https://github.com/SkyOPG)
+Contributors: Bob (mynameisbob1928) PlurrYT (aka thenoname_gurl) SkyOPG (https://github.com/SkyOPG)
